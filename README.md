@@ -1,1 +1,1 @@
-This Project is made using Nextjs and TailwindCss.
+This Project is made using Nextjs and TailwindCSS along with Spotify API.
